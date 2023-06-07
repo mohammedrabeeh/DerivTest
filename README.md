@@ -20,9 +20,9 @@ This is a test application developed for Deriv using React. Following are the re
 
 ## Getting Started
 
-* Download the zip file to your local computer and unzip
+* Download the zip file to your local computer and unzip or pull the repository.
 
-* Open extracted folder in VS Code or any editor of your choice
+* Open folder in VS Code or any editor of your choice
 
 * Run the following commands
 
@@ -41,7 +41,7 @@ npm run dev
 
 ## Improvements and further developments
 
-* The design and UI experiences could be further developed. For eg: color of the 24h change based on increase or decrease.
+* The design and UI experiences could be further developed.
 * To improve performance, implementing an unsubscribe feature would allow receiving only the relevant data through the WebSocket when switching to a different section.
 * Utilize Redux Thunk for handling asynchronous operations.
 * Seperate actions and reducers to different folders for better code arrangement.
